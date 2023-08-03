@@ -1,5 +1,5 @@
 #!/bin/bash
 
 current_dir=$(pwd)
-absolute_path=$(readlink -f "$current_dir")
+absolute_path=$(readlink -f "$./0-current_working_directory")
 echo "Current working directory: $absolute_path"
