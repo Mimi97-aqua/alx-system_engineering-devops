@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Script to get the absolute path of the current working directory
-cwd=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
-
-# Print the absolute path to terminal
-echo "Current working directory: $cwd"
+current_dir=$(pwd)
+absolute_path=$(readlink -f "$current_dir")
+echo "Current working directory: $absolute_path"
