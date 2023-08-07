@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 root root   319 Aug  7 11:33 .
+drwxr-xr-x 6 root root   104 Aug  7 04:14 ..
+-rwxr-xr-x 1 root root    32 Aug  7 04:15 0-hello_world
+-rwxr-xr-x 1 root root    27 Aug  7 06:54 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Aug  7 07:07 .1-confused_smiley.swp
+-rwxr-xr-x 1 root root    28 Aug  7 05:17 2-hellofile
+-rwxr-xr-x 1 root root    39 Aug  7 05:23 3-twofiles
+-rwxr-xr-x 1 root root    35 Aug  7 05:53 4-lastlines
+-rwxr-xr-x 1 root root    35 Aug  7 05:55 5-firstlines
+-rwxr-xr-x 1 root root    40 Aug  7 07:32 6-third_line
+-rwxr-xr-x 1 root root    72 Aug  7 11:03 7-file
+-rwxr-xr-x 1 root root    36 Aug  7 11:07 8-cwd_state
+-rw-r--r-- 1 root root    12 Aug  7 11:04 *\'"Best School"\'*$?*******:)
+-rw-r--r-- 1 root root     6 Aug  7 07:33 .gitignore
+-rw-r--r-- 1 root root   801 Aug  7 07:31 iacta
+-rw-r--r-- 1 root root     0 Aug  7 11:33 ls_cwd_content
+-rw-r--r-- 1 root root   167 Aug  7 05:18 README.md
