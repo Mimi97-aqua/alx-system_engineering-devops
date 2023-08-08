@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (bestchol=$(($WATER + $STIR)))
+echo $(printf “%o”$(($WATER | tr water 01234 + $STIR|tr stir. 01234)))
