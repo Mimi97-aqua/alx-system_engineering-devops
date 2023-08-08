@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 'p;n' "$@"
+grep -n '' "$@" | sed -n 'n;p' | cut -d: -f2-
